@@ -1,0 +1,5 @@
+sudo dnf install acpi curl dos2unix emacs xsel gcc git gmsh gnupg guake htop iftop jabref kile nmap okular openssh openssh-server telnet traceroute tree wget zip thunderbird python-pip
+
+perl xbacklight evince dconf-tools cifs-utils gnome-tweak-tool google-chrome r-base r-base-dev dconf-editor gimp fenics-project convert gcc gcc-java libgcj libgcj-devel gcc-c++
+
+latexdiff piplight-multi rar unrar gpp ffmpeg r-base
